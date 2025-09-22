@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ponnapalli Mahesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **react, javascript, MERN, DSA**
+- 💬 Ask me about ** javascript, MERN, DSA**
 
 - 📫 How to reach me **ponnapallimahesh49@gmail.com**
 
